@@ -1,3 +1,6 @@
+# confirm-component-test
+基于react,在任意组件(示例如下)的componentDidMount生命周期中挂载的confirm方法测试组件
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
